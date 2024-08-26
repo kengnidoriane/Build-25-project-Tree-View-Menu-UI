@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Project 6: Tree view / MEnu UI
+
+This feature can be add to the menu in your project
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
